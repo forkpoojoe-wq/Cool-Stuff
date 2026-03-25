@@ -1,0 +1,330 @@
+[
+  {
+    "id": "baseball-bros",
+    "title": "Baseball Bros",
+    "description": "Hit home runs and lead your team to victory in this exciting baseball game.",
+    "url": "https://baseballbros.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "basketball-bros",
+    "title": "Basketball Bros",
+    "description": "Fast-paced basketball action with the Bros. Dunk your way to the top!",
+    "url": "https://basketball-bros.github.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "soccer-bros",
+    "title": "Soccer Bros",
+    "description": "The ultimate soccer showdown. Dribble, pass, and score in this high-energy game.",
+    "url": "https://soccerbros.github.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "football-bros",
+    "title": "Football Bros",
+    "description": "American football at its best. Lead your team to the end zone!",
+    "url": "https://footballbros.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "basketball-legends-2020",
+    "title": "Basketball Legends 2020",
+    "description": "The classic 1v1 or 2v2 basketball game with legends. Tournament and quick play modes.",
+    "url": "https://basketball-legends.github.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1519861531473-9200262188bf?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "a-small-world-cup",
+    "title": "A Small World Cup",
+    "description": "A simple but addictive soccer game where you control a single player.",
+    "url": "https://asmallworldcup.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1551958219-acbc608c6377?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "description": "Manage your team and lead them to the championship in this retro-style football game.",
+    "url": "https://retrobowl.me/",
+    "thumbnail": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "super-mario",
+    "title": "Super Mario Bros",
+    "description": "The classic platformer. Save the princess from Bowser!",
+    "url": "https://supermario-game.com/",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=800",
+    "category": "Retro"
+  },
+  {
+    "id": "jelly-mario",
+    "title": "Jelly Mario",
+    "description": "A weird and wonderful jelly-physics version of the classic Mario game.",
+    "url": "https://jellymar.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&q=80&w=800",
+    "category": "Retro"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Fly through the pipes without hitting them.",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?auto=format&fit=crop&q=80&w=800",
+    "category": "Action"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "description": "The original Minecraft in your browser.",
+    "url": "https://classic.minecraft.net/",
+    "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=800",
+    "category": "Action"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "description": "Live your best (or worst) life in this text-based simulator.",
+    "url": "https://bitlifeonline.github.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=800",
+    "category": "Simulation"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game where you bake an infinite amount of cookies.",
+    "url": "https://www.coolmathgames.com/0-cookie-clicker",
+    "thumbnail": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&q=80&w=800",
+    "category": "Clicker"
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M",
+    "description": "Awesome bike racing game with challenging levels and stunts.",
+    "url": "https://www.coolmathgames.com/0-moto-x3m",
+    "thumbnail": "https://images.unsplash.com/photo-1558981403-c5f91cbcf523?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "opposite-day-2",
+    "title": "Opposite Day 2",
+    "description": "A mind-bending puzzle game where everything is the opposite of what it seems.",
+    "url": "https://www.coolmathgames.com/0-opposite-day-2",
+    "thumbnail": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&q=80&w=800",
+    "category": "Puzzle"
+  },
+  {
+    "id": "penalty-kick-online",
+    "title": "Penalty Kick Online",
+    "description": "Test your soccer skills in this intense penalty shootout game.",
+    "url": "https://www.coolmathgames.com/0-penalty-kick-online",
+    "thumbnail": "https://images.unsplash.com/photo-1518604666860-9ed391f76460?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "papas-pizzeria",
+    "title": "Papa's Pizzeria",
+    "description": "Run your own pizza shop and keep the customers happy.",
+    "url": "https://www.coolmathgames.com/0-papas-pizzeria",
+    "thumbnail": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&q=80&w=800",
+    "category": "Simulation"
+  },
+  {
+    "id": "bloxorz",
+    "title": "Bloxorz",
+    "description": "Roll the block through the maze and into the hole.",
+    "url": "https://www.coolmathgames.com/0-bloxorz",
+    "thumbnail": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=800",
+    "category": "Puzzle"
+  },
+  {
+    "id": "100-doors",
+    "title": "100 Doors Challenge",
+    "description": "Solve the puzzles to unlock all 100 doors.",
+    "url": "https://www.coolmathgames.com/0-100-doors-challenge",
+    "thumbnail": "https://images.unsplash.com/photo-1510070112810-d4e9a46d9e91?auto=format&fit=crop&q=80&w=800",
+    "category": "Puzzle"
+  },
+  {
+    "id": "run-3",
+    "title": "Run 3",
+    "description": "Run, jump, and float through space tunnels in this addictive game.",
+    "url": "https://www.coolmathgames.com/0-run-3",
+    "thumbnail": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&q=80&w=800",
+    "category": "Action"
+  },
+  {
+    "id": "vex-6",
+    "title": "Vex 6",
+    "description": "The sixth installment of the Vex series with new challenges and parkour.",
+    "url": "https://vex6.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1518605336396-6a72743c22db?auto=format&fit=crop&q=80&w=800",
+    "category": "Action"
+  },
+  {
+    "id": "clicker-heroes",
+    "title": "Clicker Heroes",
+    "description": "Defeat monsters and hire heroes in this epic idle clicker game.",
+    "url": "https://www.coolmathgames.com/0-clicker-heroes",
+    "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80&w=800",
+    "category": "Clicker"
+  },
+  {
+    "id": "futmind-fc-26",
+    "title": "Futmind FC 26 Draft",
+    "description": "Build your dream team and compete in the latest soccer draft simulator.",
+    "url": "https://futmind.com/fut-draft-simulator",
+    "thumbnail": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&q=80&w=800",
+    "category": "Simulation"
+  },
+  {
+    "id": "blooket",
+    "title": "Blooket",
+    "description": "The ultimate trivia and review game platform.",
+    "url": "https://www.blooket.com/",
+    "thumbnail": "https://images.unsplash.com/photo-1606326666490-45757474e788?auto=format&fit=crop&q=80&w=800",
+    "category": "Puzzle"
+  },
+  {
+    "id": "basket-random",
+    "title": "Basket Random",
+    "description": "Wacky 2-player basketball with random physics and courts.",
+    "url": "https://basketrandom.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1505666287802-931dc8394b5f?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "soccer-random",
+    "title": "Soccer Random",
+    "description": "Hilarious soccer game with unpredictable physics.",
+    "url": "https://soccerrandom.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1518091044134-26d8e8165b6d?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "boxing-random",
+    "title": "Boxing Random",
+    "description": "Funny boxing matches with crazy physics.",
+    "url": "https://soccerrandom.io/boxing-random",
+    "thumbnail": "https://images.unsplash.com/photo-1509190319101-131f122cd257?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Control a ball rolling down a steep, neon-colored slope. How far can you go?",
+    "url": "https://slopeonline.online/xlope-game",
+    "thumbnail": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&q=80&w=800",
+    "category": "Action"
+  },
+  {
+    "id": "shell-shockers",
+    "title": "Shell Shockers",
+    "description": "The world's most advanced egg-based multiplayer shooter!",
+    "url": "https://shellshock.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1582722872445-44c507c3c8f7?auto=format&fit=crop&q=80&w=800",
+    "category": "Action"
+  },
+  {
+    "id": "brawl-stars",
+    "title": "Brawl Stars",
+    "description": "Fast-paced 3v3 multiplayer and battle royale made for mobile!",
+    "url": "https://web.cloudmoonapp.com/run-site/run.html?sid=KJOwVEcpiswAD51RpCS0tg&quality=SD",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800",
+    "category": "Action"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "description": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog.",
+    "url": "https://subway-surfers.gg/",
+    "thumbnail": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "category": "Action"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=800",
+    "category": "Puzzle"
+  },
+  {
+    "id": "little-alchemy-2",
+    "title": "Little Alchemy 2",
+    "description": "Combine elements to create the world from scratch!",
+    "url": "https://littlealchemy2.com/",
+    "thumbnail": "https://images.unsplash.com/photo-1532187863486-abf9d38452a6?auto=format&fit=crop&q=80&w=800",
+    "category": "Puzzle"
+  },
+  {
+    "id": "wordle",
+    "title": "Wordle",
+    "description": "Guess the hidden word in 6 tries.",
+    "url": "https://wordleunlimited.org/",
+    "thumbnail": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=800",
+    "category": "Puzzle"
+  },
+  {
+    "id": "infinite-craft",
+    "title": "Infinite Craft",
+    "description": "An AI-powered crafting game where you can create anything.",
+    "url": "https://neal.fun/infinite-craft/",
+    "thumbnail": "https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&q=80&w=800",
+    "category": "Puzzle"
+  },
+  {
+    "id": "cut-the-rope",
+    "title": "Cut the Rope",
+    "description": "Feed candy to Om Nom by cutting ropes and using physics.",
+    "url": "https://www.coolmathgames.com/0-cut-the-rope",
+    "thumbnail": "https://images.unsplash.com/photo-1581798459219-318e76aecc7b?auto=format&fit=crop&q=80&w=800",
+    "category": "Puzzle"
+  },
+  {
+    "id": "pac-man",
+    "title": "Pac-Man",
+    "description": "The legendary arcade game. Eat the dots and avoid the ghosts!",
+    "url": "https://pacman.live/play.html",
+    "thumbnail": "https://images.unsplash.com/photo-1523875194681-bedd468c58bf?auto=format&fit=crop&q=80&w=800",
+    "category": "Retro"
+  },
+  {
+    "id": "google-baseball",
+    "title": "Google Baseball",
+    "description": "A fun and simple baseball game from the Google Doodle archives.",
+    "url": "https://googlebaseball.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&q=80&w=800",
+    "category": "Sports"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io",
+    "description": "Capture as much territory as possible and defeat your opponents.",
+    "url": "https://paperiogame.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=800",
+    "category": "Action"
+  },
+  {
+    "id": "idle-breakout",
+    "title": "Idle Breakout",
+    "description": "A mix of the classic Breakout and an idle clicker game.",
+    "url": "https://www.coolmathgames.com/0-idle-breakout",
+    "thumbnail": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?auto=format&fit=crop&q=80&w=800",
+    "category": "Clicker"
+  },
+  {
+    "id": "capybara-clicker",
+    "title": "Capybara Clicker",
+    "description": "Click the capybara to make more capybaras and buy upgrades!",
+    "url": "https://capybara-game.com/",
+    "thumbnail": "https://images.unsplash.com/photo-1585504198199-20277593b94f?auto=format&fit=crop&q=80&w=800",
+    "category": "Clicker"
+  }
+]
