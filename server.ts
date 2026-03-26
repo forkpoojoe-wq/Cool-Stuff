@@ -10,10 +10,18 @@ async function startServer() {
   const app = express();
   const port = 3000;
 
-  // Custom middleware to force MIME type for .jsx files
-  // This addresses the "text/jsx" MIME type error reported by the browser
+  // API routes go here
+  app.get('/api/health', (req, res) => {
+    res.json({ status: 'ok' });
+  });
+
+  app.get('/favicon.ico', (req, res) => {
+    res.status(204).end();
+  });
+
+  // Custom middleware to handle MIME types for .jsx and .js files
   app.use((req, res, next) => {
-    if (req.url.endsWith('.jsx')) {
+    if (req.url.endsWith('.jsx') || req.url.endsWith('.js')) {
       res.setHeader('Content-Type', 'application/javascript');
     }
     next();
